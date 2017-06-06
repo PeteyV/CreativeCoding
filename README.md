@@ -40,7 +40,7 @@ been a fan of special affects and light shows at concerts, so I thought it was t
 
 ___________________________________________________________________________________________________________________
 
-## Spawn n Slap (PSV) - Project 1 EDP
+## Spawn n Slap (SnS) - Project 2 EDP
 
 For this projet I got a majority of my insparation from Fruit Ninja.  Spawn n Slap is a two player game that involves one person playing on the computer and another playing through the Xbox Kinect.  The player on the computer can spawn / throw up to five balls at a time in which the player on the Kinect need to 'slap' off the screen.
 
